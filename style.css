@@ -45,7 +45,10 @@ footer
     margin-bottom: 35px;
     font-weight: 500;
     position: relative;
-    /* background: red; */
+}
+.footer-col h4:hover
+{
+    cursor: POINTER;
 }
 
 .footer-col h4::before
